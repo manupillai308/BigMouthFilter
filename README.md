@@ -14,4 +14,4 @@ opencv
 ```
 
 ### Usage
-Just run ```app.py``` :wink:
+Just run ```filter.py``` :wink:
